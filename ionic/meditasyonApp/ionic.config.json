@@ -1,0 +1,7 @@
+{
+  "name": "meditasyonApp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}

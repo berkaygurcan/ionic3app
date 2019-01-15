@@ -1,0 +1,102 @@
+ders 2
+app klasörü içinde
+dakka 6
+app component-uygulama açýlýnca ilk ekrana gören kýsým
+app html-acýk olan sayfa 
+dakka 7.20
+app modül de declerion ve importlar ve provirderþar býlýnuýr
+
+ders 3 slide menü düzenleme ve alt sayfalarý yönlendirme iþlemi ve sayfaya veri gönderme
+
+dakka 1.12 array'in tipi obje bizde buna katogori ekleyelim
+
+
+dakka 4.30 ngfor ile pages arrayimizdeki elemanlarý p ile tek tek aldýk ve pages fonksiyonuna gönderdik
+dakka 6 
+veri gönderme yi yapýcaz
+
+dakka 8 baþlýðý deðiltirme
+
+ders 4
+dakka 3.38 http importu html.ts constractorune
+
+dakka 6 artýk servise baglanaybiliyoruz
+
+dakka 9 array yakalama jsondaki
+metod calýsabilmesi icin ionViewDidLoad metodunu cagýrdýk
+
+dakka 10 ile 13 arasý import lar 
+
+ders 5 
+
+dakka 00.30 ion card tasarýmý baslýyor
+dakka 1 aldýgmýz her bir meditasyon icin bir ioncard olusuturcaz
+
+22 aralýk
+
+bölüm 3
+ders 6
+ sqlite veritabaný entegre etme
+dakka 00.30 siteden kodu alýyoruz
+
+dakka 1 provider oluþturduk veritabani provider i bu sekilde heryerden cagýrabilicez
+Injectable() oldugunu belirtiriz ilk .?
+
+
+ders 7
+
+3.50 back yazýsýnýn türkçeleþtirilmesi hakkýnda
+
+dakka 4.40 detay sayfamýzý yapmaya baslayalým
+
+dakka 7.40 arka plan resmi ile ilgili
+
+dakka 15 calýsýosa icon icinde puse yazacak calmýyosa template button olusturduk
+
+
+ders 9 
+gerekli ayarlarý yapýo müziðimizi oynatcaz
+
+ders 10
+
+uygulamayi built etmeyi anlatýyor
+
+dakka 1 ekleme 1.30 eklediðimiz platformu built et 2.32 çalýstýrma
+ dakka 3.50 sunucuya gönderilcek dostalar control c ile serve edilmesini durdurabilirsiniz
+
+
+bölüm 5 ders 1
+
+sunucudan aldýgýmýz verileri direk gösteriyoruz suan bunlarýa lýp sql lite a kaydettirip bunlarý aktegorilere göre göstermemiz gerkeþyor.ilk platform cagýrýcahýz
+
+ders 2 
+
+sqlitedan verileri alýpn uyg göstermek
+
+dakka dakka 6.30 error olayýnýda degerlendirdik ve hata olmasý durumunda boþ dizi gönderdik
+dakka 7.25 html sayfasýndaki home.htmol let med of meditasyonlarý 'ý datalar yaptýks
+
+
+ders 3 
+dakka 1.50 toast mesaj icin eklememiz gerekenler
+
+Bölüm 6 
+
+ders 1
+dakka 1.50 app module provider modülünden ekleyecegiz
+
+ders 2
+icon ve splash ekran hazýrlama
+terminal iþlemleri 4.12 icon ve splash hazýrlaýkdan sonraki
+dakka 6.10 config.xml e geliyruz uygulama id si ve ismi güncelleme
+
+ders 6.18
+
+uygulamayý build edip yayýnlayabiliriz.Daha önce olusturudugumuz android ve ios builderimizi sillim
+daha sonra en son tekrar derleyelim
+
+
+ders 6.19
+dakka 3.30 uygulamanýn markete yüklenebilmesi icin imzalý apk olusturuyoruz
+imzadosyasinin sonu jks olmalidir.Next dedikden sonra 2 tilide seçmeliyiz
+

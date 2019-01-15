@@ -1,0 +1,24 @@
+<ion-header>
+  <ion-navbar>
+    <button ion-button menuToggle>
+      <ion-icon name="menu"></ion-icon>
+    </button>
+    <ion-title *ngIf="sayfa; else menuBaslik">{{sayfa.title}}</ion-title><!--sayfa varsa meditasyon app yaz else
+    durumunda ise menuBaslik olusacak-->
+    <ng-template #menuBaslik>
+      <ion-title>Meditasyon App</ion-title>
+    <!-- sayfadan gelmiyosak else kımıs yani burasi calisacak-->
+    
+    </ng-template>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+  <ion-card *ngFor=" let med of datalar" (click)="goMeditasyon(med)">
+    <img src="http://mistikyol.com/mistikmobil/thumbnails/{{med.thumbnail}}">
+    <ion-card-content>
+      <b>{{med.baslik}}</b>
+      <p>{{med.aciklama}}</p>
+    </ion-card-content>
+   </ion-card>
+</ion-content>
